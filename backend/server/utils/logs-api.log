@@ -1,49 +1,24 @@
-
-[Fri Nov 05 2021 10:41:40 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:41:40 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:41:47 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:41:47 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:44:08 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:44:08 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:44:23 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:44:24 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:46:14 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:46:14 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:46:58 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:46:58 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:47:11 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:47:11 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:47:42 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:47:42 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:48:08 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:48:08 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:48:39 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:48:39 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:52:40 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:52:40 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:54:16 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:54:16 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:56:49 GMT-0500 (hora estándar de Colombia)] error Error
-[Fri Nov 05 2021 10:56:49 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:56:49 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:57:33 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:57:33 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:59:26 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 10:59:26 GMT-0500 (hora estándar de Colombia)] info Database running
-[Fri Nov 05 2021 10:59:35 GMT-0500 (hora estándar de Colombia)] error The user is already registered.
-[Fri Nov 05 2021 11:07:59 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 11:07:59 GMT-0500 (hora estándar de Colombia)] info Database running.
-[Fri Nov 05 2021 11:08:02 GMT-0500 (hora estándar de Colombia)] error The user is already registered.
-[Fri Nov 05 2021 11:08:49 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 11:08:49 GMT-0500 (hora estándar de Colombia)] info Database running.
-[Fri Nov 05 2021 11:08:52 GMT-0500 (hora estándar de Colombia)] error The user is already registered.
-[Fri Nov 05 2021 11:09:17 GMT-0500 (hora estándar de Colombia)] error The user is already registered.
-[Fri Nov 05 2021 11:09:27 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 11:09:27 GMT-0500 (hora estándar de Colombia)] info Database running.
-[Fri Nov 05 2021 11:09:31 GMT-0500 (hora estándar de Colombia)] info User create: 
-[Fri Nov 05 2021 11:11:21 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 11:11:21 GMT-0500 (hora estándar de Colombia)] info Database running.
-[Fri Nov 05 2021 11:11:24 GMT-0500 (hora estándar de Colombia)] info User create: 
-[Fri Nov 05 2021 11:11:59 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
-[Fri Nov 05 2021 11:11:59 GMT-0500 (hora estándar de Colombia)] info Database running.
-[Fri Nov 05 2021 11:12:01 GMT-0500 (hora estándar de Colombia)] info User create: 
+[Fri Nov 05 2021 11:52:54 GMT-0500 (hora estándar de Colombia)] info User create: {
+  name: 'Juan',
+  age: '20',
+  email: 'juan@gmail.com',
+  password: '$2b$10$eeKKaDyt7qniOA1bwyI7Aepq/jBURT6uXx4jAB8qReNp7m//hQBky',
+  _id: new ObjectId("618561666a59f646d268da85")
+}
+[Fri Nov 05 2021 11:53:32 GMT-0500 (hora estándar de Colombia)] error The user does not exist.
+[Fri Nov 05 2021 11:55:51 GMT-0500 (hora estándar de Colombia)] error The user does not exist.
+[Fri Nov 05 2021 11:56:03 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
+[Fri Nov 05 2021 11:56:03 GMT-0500 (hora estándar de Colombia)] info Database running.
+[Fri Nov 05 2021 11:56:08 GMT-0500 (hora estándar de Colombia)] error The user does not exist.
+[Fri Nov 05 2021 11:57:38 GMT-0500 (hora estándar de Colombia)] info Usuario autenticado: juan@gmail.com
+JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTg1NjE2NjZhNTlmNjQ2ZDI2OGRhODUiLCJuYW1lIjoiNjE4NTYxNjY2YTU5ZjY0NmQyNjhkYTg1IiwiaWF0IjoxNjM2MTMxNDQ3LCJleHAiOjE2MzYyMTc4NDd9.xSqqmrUeLqooeLkU8gZGeMBctW70cNuHZcjbvX4GTXo
+[Fri Nov 05 2021 11:57:52 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
+[Fri Nov 05 2021 11:57:52 GMT-0500 (hora estándar de Colombia)] info Database running.
+[Fri Nov 05 2021 11:57:55 GMT-0500 (hora estándar de Colombia)] info Usuario autenticado: juan@gmail.com
+JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTg1NjE2NjZhNTlmNjQ2ZDI2OGRhODUiLCJuYW1lIjoiNjE4NTYxNjY2YTU5ZjY0NmQyNjhkYTg1IiwiaWF0IjoxNjM2MTMxNDc1LCJleHAiOjE2MzYyMTc4NzV9.NEmub2qHDEnlSw0-bZy8YzqAUkPSiM_hogTN7hgWMvE
+[Fri Nov 05 2021 11:58:43 GMT-0500 (hora estándar de Colombia)] info Server on port: 3000
+[Fri Nov 05 2021 11:58:43 GMT-0500 (hora estándar de Colombia)] info Database running.
+[Fri Nov 05 2021 11:58:47 GMT-0500 (hora estándar de Colombia)] info Usuario autenticado: juan@gmail.com
+JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTg1NjE2NjZhNTlmNjQ2ZDI2OGRhODUiLCJuYW1lIjoiSnVhbiIsImlhdCI6MTYzNjEzMTUyNywiZXhwIjoxNjM2MjE3OTI3fQ.N2S-u-IPqFhGPWK3m4S4E4VldHVUy0I_WtQzpiKLJiU
+[Fri Nov 05 2021 11:58:59 GMT-0500 (hora estándar de Colombia)] error The user does not exist.
+[Fri Nov 05 2021 11:59:03 GMT-0500 (hora estándar de Colombia)] error Email or password are wrong

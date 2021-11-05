@@ -1,4 +1,4 @@
-/* Archivo encargado de definir las rutas que apuntan los controladores */
+/* Archivo encargado de definir las rutas que apuntan los controladores de user */
 //Modulos internos
 const express = require('express');
 const router = express.Router();

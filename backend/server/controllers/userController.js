@@ -3,7 +3,7 @@
 const { User } = require("../models/users");
 const bcrypt = require("bcrypt");
 const log = require("../utils/logger");
-//Controlador para ir agregando las funciones
+//Controlador para agregar las funciones del usuario
 const userController = {};
 // ------Funciones-----
 //Función crear usuarios
@@ -24,7 +24,7 @@ userController.registerUser = async (req, res) => {
   });
   //Guardar el usuario
   const save = user.save();
-  log.info("User create: ", save);
+  log.info("User create: " + user);
   //Respuesta
   res.status(201).send("Usuario creado de manera exitosa.");
 };

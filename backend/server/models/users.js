@@ -13,7 +13,7 @@ const UserSchema = mongoose.Schema({
 UserSchema.methods.generateJWT = function() {
     return jwt.sign({
         _id:this._id,
-        name:this._id
+        name:this.name
     },"proyectoMEAN-1",{
         expiresIn:'1d'
     })
